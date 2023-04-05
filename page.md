@@ -1,3 +1,3 @@
 layout: page
-title: "PAGE-TITLE"
+title: "Daniel Moritz"
 permalink: /[URL-PATH](https://moritzdaniel.github.io)
